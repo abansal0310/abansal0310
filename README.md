@@ -1,34 +1,125 @@
-<h1 align="center">Hi 👋, I'm Akshit Bansal</h1>
-<h3 align="center">Adept at crafting user-centric solutions that streamline user experiences and optimize business productivity.</h3>
+<div align="center">
+  <img src="![image](https://github.com/user-attachments/assets/c09435c1-ace5-4e70-aaae-4999f34582a5) width="100%">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abansal0310" alt="abansal0310" /></a> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Akshit+Bansal;Welcome+to+my+Code+Realm" alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on [Unstop User Experience](https://github.com/abansal0310/Unstop-Talent-Park)
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [Santulan](https://github.com/navdeepsingh112/Santulan)
-
-- 📝 I regularly write articles on [https://www.notion.so/Technical-Portfolio-3f52722b21f941c1a59cfdbf2b789f5b](https://www.notion.so/Technical-Portfolio-3f52722b21f941c1a59cfdbf2b789f5b)
-
-- 💬 Ask me about **Business Models**
-
-- 📫 How to reach me **abansal8_be22@thapar.edu**
-
-- 📄 Know about my experiences [https://www.notion.so/Resume-cd9156991c4849fb973986e79804139c](https://www.notion.so/Resume-cd9156991c4849fb973986e79804139c)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshit-bansal-67b84b247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshit-bansal-67b84b247" height="30" width="40" /></a>
-<a href="https://instagram.com/_akshit010_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akshit010_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akshitbanclnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshitbanclnu" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshit-bansal-67b84b247/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
+  <a href="mailto:akshitbansal010@gmail.com"><img src="https://img.shields.io/badge/-Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+  <a href="https://www.instagram.com/_akshit010_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abansal0310&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abansal0310&layout=compact&theme=radical" alt="Top Languages" height="170">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abansal0310&show_icons=true&locale=en&layout=compact" alt="abansal0310" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abansal0310&show_icons=true&locale=en" alt="abansal0310" /></p>
+<h2 align="center">🧑‍💻 About Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abansal0310&" alt="abansal0310" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+      </td>
+      <td>
+        <p align="left">
+          🚀 CSE Student at Thapar Institute<br>
+          💡 Passionate about innovative solutions<br>
+          🌟 Bridging tech and business needs<br>
+          🔭 Working on Unstop User Experience<br>
+          🌱 Learning React & expanding full-stack skills<br>
+          👯 Open to collaborate on impactful projects<br>
+          💼 Seeking opportunities in Product Management & Software Development
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🚀 Tech Arsenal</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,flutter,nodejs,mysql,mongodb,firebase,git,docker,aws&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+<h2 align="center">💼 Project Showcase</h2>
+
+<div align="center">
+  <a href="https://github.com/navdeepsingh112/Santulan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navdeepsingh112&repo=Santulan&theme=radical" alt="Santulan" />
+  </a>
+  <a href="https://github.com/abansal0310/Unstop-Talent-Park">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abansal0310&repo=Unstop-Talent-Park&theme=radical" alt="Unstop User Experience" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements Unlocked</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/medal2.png" width="40"/>
+        <br />
+        <span style="color:#00FFFF">Bronze Medal</span><br />UNM Global Scaling Challenge
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/google-logo.png" width="40"/>
+        <br />
+        <span style="color:#00FFFF">Google Solution Challenge</span><br />Regional Qualifier
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/prize.png" width="40"/>
+        <br />
+        <span style="color:#00FFFF">Inspire Manak Award</span><br />1st Rank District
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🌟 Skill Meter</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abansal0310&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+<h2 align="center">🎨 Code Contribution Art</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abansal0310/abansal0310/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<h2 align="center">💡 Tech Quote of the Day</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🔍 Profile Views</h3>
+  <img src="https://profile-counter.glitch.me/abansal0310/count.svg" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" alt="Wave Footer" />
+</div>
